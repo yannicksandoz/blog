@@ -2,4 +2,4 @@
 title: "Welcome"
 ---
 
-You'll soon find more music here.
+You'll find more music here.
